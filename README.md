@@ -8,7 +8,8 @@ Assembly diagram :
 
 End product : 
 
-![voiture_rc](https://github.com/user-attachments/assets/81b1270c-4f34-4b9e-95e5-bcd643fcf283)
+![C177B933-7DF1-4F3E-83AE-96774EEAC49C_1_201_a](https://github.com/user-attachments/assets/61203431-5ba3-4b3c-93ac-c85bcdb794ae)
+
 
 ![voiture_rc_arr](https://github.com/user-attachments/assets/6db1483a-9945-4098-9c31-6076a5d7ddc1)
 
