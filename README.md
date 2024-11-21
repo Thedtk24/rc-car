@@ -1,12 +1,12 @@
 # rc-car
-Voiture rc avec des composants arduino (HC-05, HC_SR04)
+RC car with arduino components (HC-05, HC_SR04)
 
-Schéma de montage : 
+Assembly diagram : 
 
 
 ![schema_montage](https://github.com/user-attachments/assets/d5983c04-7855-4f8a-b773-01073756587f)
 
-Produit final : 
+End product : 
 
 ![voiture_rc](https://github.com/user-attachments/assets/81b1270c-4f34-4b9e-95e5-bcd643fcf283)
 
