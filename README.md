@@ -1,4 +1,4 @@
-# rc-car
+# rc-car project
 RC car with arduino components (HC-05, HC_SR04)
 
 Assembly diagram : 
